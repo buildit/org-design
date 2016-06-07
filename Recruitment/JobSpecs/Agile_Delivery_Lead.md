@@ -1,6 +1,6 @@
 # Job Spec - Agile Delivery Lead
 
-* Buildit only recruit those that are already or have the potential to perform at a superstar level.
+* Buildit only recruit superstars or those that have the potential to grow into a superstar.
 
 * We employ T-shaped individuals that can lead a delivery whist serving within a team.
 
