@@ -1,9 +1,13 @@
 #Buildit 
 
-__We believe__ the future is ‘it’ not IT.   Technology moves, the competition moves, the market moves, the people move.  We are here because we enjoy that complexity, we believe that success requires autonomy, and we know that autonomy rocks.
+The future is ‘it’, not IT. Technology moves, the competition moves, the market moves, the people move. We are here because we enjoy the challenge of taming that complexity.
 
-Not a consultancy, not an outsourcer. __We are__ a transformation partner that participates, we build software, we build teams, we build new ways of working, we build new organisations.
+We are not a consultancy, not an outsourcer. We are a transformation partner that participates. We build software, we build teams, we build new ways of working, we build new organisations.
 
-We are fiercely pragmatic and highly cross-disciplinary. We seek out brave, ambitious work, whilst keeping our feet firmly on the ground. __We know__ what it takes to design and deliver experiences that make a difference. Our biggest asset is our ability to identify and apply right-fit techniques for each client’s circumstances and culture.
+This is brave, ambitious work, where success demands fierce pragmatism, genuine breadth and depth, an egoless mentality. It's a journey where learning never stops.
 
-__We engineer__ great experiences - it’s not something you can codify. It’s much more subtle, complex, elusive than that. It’s a people thing - the right blend of talent, an effective unit, equipped to discover and create things that matter to you and me.  For this, you need to create the right environment, you need the ability to figure out what’s not working when it’s not, and the ability to fix it so it does.  You need a place where people safely try, stumble, fall, learn, and try something else.  Quickly and often. The prize is special – an experience that, for a moment, delights someone, time and again. The Buildit team aspire to create the technology and ways of working that bring such moments within reach 
+Because, ultimately, there is no recipe for engineering great experiences. It is much more subtle, complex, elusive than that. It's a people thing - the right blend of talent, an effective unit, equipped to discover and create things that matter to you and me. To figure out what’s not working when it’s not, and fix it so it does.
+
+The prize is special – an experience that, time and again, delights someone for a brief moment.
+
+We at Buildit create the technology and ways of working that bring such moments within reach.
