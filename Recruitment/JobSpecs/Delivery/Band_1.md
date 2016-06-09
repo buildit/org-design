@@ -1,4 +1,4 @@
-###Band 2 - Behaviours & Experience
+###Band 1 - Behaviours & Experience
 
 * Good overall delivery lead experience but only demonstrates foundation Agile techniques such as Scrum, Safe, LeSS, Kanban, XP, Lean, BDD, CI/CD, Devops rather than practitioner
 
