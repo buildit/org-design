@@ -1,7 +1,30 @@
 ###Band 1 - Behaviours & Experience
 
-* Good overall delivery lead experience but only demonstrates foundation Agile techniques such as Scrum, Safe, LeSS, Kanban, XP, Lean, BDD, CI/CD, Devops rather than practitioner
+* Sound understanding of agile software development practices. Will be able to both explain the difference between different agile methods (Scrum, Kanban, etc) and also be able to give examples of when to use one over another.
 
-* Led teams in a stable well defined environment with little or no transformational experience 
+* Experience in delivering software projects (or practical equivalent) using agile methods. Should be able to describe some of the key characterisitics or an agile team working well.
 
-* Delivery leadership around established practices and methods
+* Understand the key roles and responsibilities in an agile team. Demonstrates ability to determine who is responsible for what artifacts and any agile anti-patterns.
+
+* Can confidently discuss compromise between the ideal and the pragmatic. Understands the risks from diverging from best practice but can sensible talk about risk and mitigation strategies in different scenarios
+
+* Able to help teams recognise their strengths and weaknesses in order to improve team productivity 
+
+* Clear evidence of direct impact to overall project and product outcome
+
+* Has a working understanding of path to live and can talk to concepts such as CI/CD and the DevOps culture
+
+* Able to understand and contribute to architectural concerns
+
+* A working understanding of good software development practices as included in methods like XP. Can demonstrate experience in moving development teams to better practice. 
+
+* Evidence of impact and thought leadership
+
+* Within your sphere of influence contribute to organisation at a strategic level
+
+* Implicit leadership through competence and behaviours
+
+* Adjust behaviour to fit a variety of environments, highly pragmatic attitude
+
+* Instinctive sense of ownership
+
