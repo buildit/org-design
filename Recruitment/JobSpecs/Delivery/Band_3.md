@@ -1,4 +1,5 @@
 ###Band 3 - Behaviours & Experience
+*Influencer at the industry level*
 
 * Able to identify and measure an organisations strengths and weaknesses and work with peers to improve overall productivity.
 

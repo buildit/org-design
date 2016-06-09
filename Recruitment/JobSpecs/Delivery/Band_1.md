@@ -1,5 +1,7 @@
 ###Band 1 - Behaviours & Experience
 
+*Influencer at the team level*
+
 * Sound understanding of agile software development practices. Will be able to both explain the difference between different agile methods (Scrum, Kanban, etc) and also be able to give examples of when to use one over another.
 
 * Experience in delivering software projects (or practical equivalent) using agile methods. Should be able to describe some of the key characterisitics or an agile team working well.
