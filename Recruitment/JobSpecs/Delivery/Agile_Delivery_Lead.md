@@ -1,10 +1,10 @@
 # Job Spec - Agile Delivery Lead
 
-* Buildit only recruit superstars or those that have the potential to grow into a superstar.
+* Buildit expect its people to be the best they can be, whilst attempting to behave decently along the way.
 
-* We employ T-shaped individuals that can lead a delivery whist serving within a team.
+* We like T-shaped individuals that can lead a delivery whist serving within a team.
 
-* Individuals that can both foster a great team culture and thrive inside that team as an egoless peer
+* People that can both foster a great team culture and thrive inside that team as an egoless peer
 
 * Our people share problems as well as victories and understand that fostering an environment of openness, transparency and fairness is the best way to keep a customer satisfied, and deliver disruptive innovation.
 
