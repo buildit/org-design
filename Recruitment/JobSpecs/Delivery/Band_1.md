@@ -16,8 +16,6 @@
 
 * Has a working understanding of path to live and can talk to concepts such as CI/CD and the DevOps culture
 
-* Able to understand and contribute to architectural concerns
-
 * A working understanding of good software development practices as included in methods like XP. Can demonstrate experience in moving development teams to better practice. 
 
 * Evidence of impact and thought leadership
@@ -29,4 +27,13 @@
 * Adjust behaviour to fit a variety of environments, highly pragmatic attitude
 
 * Instinctive sense of ownership
+
+* Knows the importance of building software to operate in order to avoid adding to tech debt
+
+* Exercise keen judgment based on experience and the environment
+
+* Set vision and direction to inspire high-calibre teams
+
+* Solid delivery experience that transcends a single method
+
 

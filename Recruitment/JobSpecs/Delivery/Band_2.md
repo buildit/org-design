@@ -1,7 +1,7 @@
 ###Band 2 - Behaviours & Experience
-*Influencer at the orgnisation level*
+*Influencer at the organisation level*
 
-* All behaviours & experiece in line with Band 1.
+* All behaviours & experience in line with Band 1.
 
 * Experience in scaling agile development, solid understanding of this risks inherit when scaling andwhen the best time to decide to scale. Can compare and contrast different scaling options and provide insight when to use one over the other.
 
@@ -11,10 +11,22 @@
 
 * Proven experience in fostering iterative development in organisation and encouraging value chain and outcome based thinking beyond the IT sector within large organisations.
 
-
-* Is comfortable dealing with ambiguity and can make sensible trade off about when to share the load of ambiguilty with the team or when it is right to sheild the team from it.
-
-* Understands and acts on the big picture and own place within it.
-
 * Knows the cost of problems missed early causing significant unplanned delays later and puts standards in place across the programme in order to perform rigorous testing early and often.
 
+* Able to identify and measure an organisations strengths and weaknesses and work with peers to improve overall productivity.
+
+* Recognises the importance of stable teams and practices putting structures and measures in place to improve predictability
+
+* Uses tools and standards effectively to eliminate time spent on those things that are highly repeatable like config and environmental related issues but works hard to avoid unnecessary bureaucracy. 
+
+* Realises what clear actionable data teams need flowing from production in order to resolve issues significantly faster and with less effort.
+
+* Adapts to highly volatile and uncertain environments (e.g. transformational, startup)
+
+* Contribute to organisation at a strategic level
+
+* Define and drive delivery strategy for smaller organisations, influence strategy for large organisations
+
+* Stakeholder management skills including senior exec level
+
+* Able to understand and contribute to architectural concerns
