@@ -1,7 +1,7 @@
-###Band 2 - Behaviours & Experience
+###Experience Level 2 - Behaviours & Experience
 *Influencer at the organisation level*
 
-* All behaviours & experience in line with Band 1.
+* All behaviours & experience in line with experience level 1.
 
 * Experience in scaling agile development, solid understanding of this risks inherit when scaling andwhen the best time to decide to scale. Can compare and contrast different scaling options and provide insight when to use one over the other.
 

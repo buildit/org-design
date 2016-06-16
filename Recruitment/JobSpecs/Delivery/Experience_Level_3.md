@@ -1,7 +1,7 @@
-###Band 3 - Behaviours & Experience
+###Experience Level 3 - Behaviours & Experience
 *Influencer at the industry level*
 
-* All behaviours & experience in line with Band 1 & 2.
+* All behaviours & experience in line with experience levels 1 & 2.
 
 * Industry / community level thought leadership, e.g. conference speaker
 
