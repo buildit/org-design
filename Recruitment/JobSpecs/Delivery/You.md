@@ -14,7 +14,7 @@ You use the Agile Manifesto as your guiding principle across all areas of Digita
 
 You encourage yourself and the team to use the right tool for the job. You are not wedded to technologies or techniques and understand that the loose coupling and high cohesion is a principal that can equally applied to team dynamics as well as software development.
 
-You derive your satisfaction from the success of the whole over the success of the one. You are happy working in an entirely flat structure where everyone is there peer. When leadership is required a Buildit Delivery person will lead from a position of trust and respect, the team will follow because they want to not because they have to.
+You derive your satisfaction from the success of the whole over the success of the one. You are happy working in an entirely flat structure where everyone is there peer. When leadership is required you will lead from a position of trust and respect, the team will follow because they want to not because they have to.
 
 You understand to truly transform companies they need to be confident enough to be a client's critical friend. You will help them to see when they are making ill informed decisions or focusing their time in the wrong areas. You do this with tact and diplomacy but also openness and fairness that will prioritise long term relationships over short term appeasement. 
 
