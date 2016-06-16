@@ -2,11 +2,11 @@
 
 *Influencer at the team level*
 
-* Sound understanding of agile software development practices. Will be able to both explain the difference between different agile methods (Scrum, Kanban, etc) and also be able to give examples of when to use one over another.
+* Sound understanding of agile software development practices. Will be able to both explain the difference between different agile methods (Scrum, Kanban, etc.) and also be able to give examples of when to use one over another.
 
-* Experience in delivering software projects (or practical equivalent) using agile methods. Should be able to describe some of the key characterisitics or an agile team working well.
+* Experience in delivering software projects (or practical equivalent) using agile methods. Should be able to describe some of the key characteristics of an agile team working well.
 
-* Understand the key roles and responsibilities in an agile team. Demonstrates ability to determine who is responsible for what artifacts and any agile anti-patterns.
+* Understand the key roles and responsibilities in an agile team. Demonstrates ability to determine who is responsible for what artefacts and any agile anti-patterns.
 
 * Can confidently discuss compromise between the ideal and the pragmatic. Understands the risks from diverging from best practice but can sensible talk about risk and mitigation strategies in different scenarios
 
