@@ -4,11 +4,11 @@ We like people who do the best they can, whilst behaving decently along the way.
 
 You will consider yourself a T-shaped individual that can lead a delivery whilst serving within a team.
 
-You like to foster a great team culture and thrive inside that team as an egoless peer
+You like to foster a great team culture and thrive inside that team as an egoless peer.
 
 You share problems, as well as victories and understand that fostering an environment of openness, transparency and fairness is the best way to keep a customer satisfied, and deliver disruptive innovation.
 
-You optimise at the value chain level rather than sub-optimise at the component level and focus on the outcome rather than the output
+You optimise at the value chain level rather than sub-optimise at the component level and focus on the outcome rather than the output.
 
 You use the Agile Manifesto as your guiding principle across all areas of Digital Transformation. You understand that the principles aren’t development specific.
 
