@@ -1,9 +1,9 @@
-###Why us? And why you?
-Do you think there’s something wrong with the way most companies approach problems, whether they’re people, process, or technology related? 
+###Why us?
+We think there’s something wrong with the way most companies approach problems, whether they’re people, process, or technology related.
 
-Do you want to help them figure out how to think differently?
+We want to help them figure out how to think differently.
  
-Do you love technology, but understand that real change comes from people doing things differently, rather than people using different tools to do the same thing? 
+We love technology, but understand that real change comes from people doing things differently, rather than people using different tools to do the same thing. 
 
 We’re looking for people who want to help us change the way companies think and approach problems; people who want to work with teams and individuals who share a passion for solving complex problems; people who want to own the entire problem, whether it’s a technical tool change or introducing cross-functional teams and reducing failure demand across a company.
 
