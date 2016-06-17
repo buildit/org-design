@@ -24,7 +24,7 @@ Do you believe to truly transform companies you need to be confident enough to b
 
 Do you constantly ask yourself whether you are attached to an idea or concept, and if you are whether that is inhibiting your ability to consider the alternatives?
 
-Do you have experience in scaling agile development, and a solid understanding of this risks inherit when scaling andwhen the best time to decide to scale? 
+Do you have experience in scaling agile development, and a solid understanding of this risks inherit when scaling and when the best time to decide to scale? 
 
 Can you compare and contrast different scaling options and provide insight when to use one over the other?
 
