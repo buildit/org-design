@@ -4,4 +4,4 @@ Technology moves, the competition moves, the market moves, the people move. We l
 
 The future belongs to those who understand that it’s not about system specification but end-user expectation. The future belongs to those who design and build it. The future belongs to those who make it.
 
-If this sounds like you, or like someone you want to be, get in touch with us and let’s have a chat.
+If the above sounds like something you're currently doing, something you believe you can do, or even something you would like to do, get in touch with us and let's have a chat. 
