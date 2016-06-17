@@ -28,13 +28,13 @@ Do you have experience in scaling agile development, and a solid understanding o
 
 Can you compare and contrast different scaling options and provide insight when to use one over the other?
 
-Do you believe in a fail safe, fail fast environment and conducting multiple tiny experiements to evolve the best solution for the end user? 
+Do you believe in a fail safe, fail fast environment and conducting multiple tiny experiments to evolve the best solution for the end user? 
 
 Can you shape the working environment and practices at organisational level, inside and outside of IT?
 
 Do you have experience in digital transformation, and proven experience in negotiating with CXO level players to influence business organisation to prioritise agility over utilisation?
 
-Are you experience in managing teams of teams, and setting up communities of excellence to allow for contiunous improvement in technical specialities?
+Are you experience in managing teams of teams, and setting up communities of excellence to allow for continuous improvement in technical specialties?
 
 Do you have a proven track record of successfully delivering large programs of work, whilst maintaining a strong relationship with all parties?
 
