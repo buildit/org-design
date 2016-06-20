@@ -14,7 +14,7 @@ Have you successfully scaled agile development? Can you speak to the risks inher
 
 Are you experienced in creating fail safe, fail fast environment where multiple tiny experiments evolve the best solution for the end user? 
 
-Do you have experience in digital transformation? Can you negotiate with players at all levels to influence business leaders to prioritise agility over efficiency?
+Do you have experience in digital transformation? Can you negotiate with players at all levels and influence business leaders to prioritise agility over efficiency?
 
 Are you experience in managing teams of teams, and setting up communities of excellence to allow for continuous improvement across specialties?
 
