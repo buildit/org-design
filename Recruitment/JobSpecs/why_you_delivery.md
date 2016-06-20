@@ -16,7 +16,7 @@ Are you experienced in creating fail safe, fail fast environment where multiple 
 
 Do you have experience in digital transformation? Can you negotiate with players at all levels and influence business leaders to prioritise agility over efficiency?
 
-Are you experience in managing teams of teams, and setting up communities of excellence to allow for continuous improvement across specialties?
+Are you experienced in managing teams of teams, or setting up communities of excellence to allow for continuous improvement across specialties?
 
 Do you have a proven track record of successfully delivering large programs of work, whilst maintaining a strong relationship with all parties?
 
