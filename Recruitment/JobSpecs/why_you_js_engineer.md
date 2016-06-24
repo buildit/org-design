@@ -17,11 +17,11 @@ If that sounds like something you'd like to be a part of, here are some things t
 
 #### You:
 
-* Are talented and passionate Front-end Developer.
+* Are a talented and passionate Javascript Engineer, handling both server-side and client-side code.
 * Are looking for a team that operates with a flat hierarchy, and that's made up of egoless peers who are willing to listen, learn, and share.
 * Can bring you natural personality to work.
 * Are a self-starter and a pragmatist, able to balance quality, delivery, and focus, as well as an excellent communicator with a hands-on approach to business.
-* Have excellent ES2016/ESNext/HTML/CSS skills and can use modern Front-End frameworks to develop single page applications.
+* Have excellent ES2016/ESNext/HTML/CSS skills and can use modern frameworks to develop single page applications.
 * Have experience across a broad range of languages and tools, and are able to make the appropriate selection when approaching both new and existing projects.
 * Are keen to learn and keep up with new technologies. However, your depth of understanding transcends current crazes and trendy tools/frameworks.
 * Can work effectively with UX/designers to build exciting UIs for web applications.
