@@ -1,6 +1,5 @@
 ###About us
-
-Buildit is a transformation studio, a company that helps create better companies. 
+Buildit is a transformation studio, a company that helps create better companies.
 
 We partner with clients to build new products and services, and help their teams scale independently.
 
@@ -24,3 +23,12 @@ We’re looking for people who want to be treated like adults – who neither ne
 We’re looking for people who are willing to seek input when they want to make a decision that will affect others, or when others know more than they do.
 
 We build software. We build teams. We build new ways of working. We build better organisations.
+
+###Our promise
+We provide dedicated time and support for you to own your own development and growth.
+
+Your contributions to our community will be valued and promoted.
+
+We provide you the space to turn your ideas and suggestions into reality.
+
+It’s important for us to have a publicly recognised, authentic voice and for you to have your voice heard inside and outside of Buildit.
