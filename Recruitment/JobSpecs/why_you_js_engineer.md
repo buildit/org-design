@@ -7,13 +7,15 @@
 * Accelerate and improve how we help our clients through developing and contributing to components, services and methodologies.
 * Explore up-and-coming technologies and software products; seize learning and knowledge sharing opportunities; participate in professional organizations. Read; teach; learn.
 
+
 #### Qualifications
-* Talented and passionate Front-end Developer.
-* Excellent ES2016/ESNext/HTML/CSS skills and experience with modern Front-End frameworks to develop single page applications.
+* Talented and passionate Javascript Engineer, handling both server-side and client-side code.
+* Excellent ES2016/ESNext/HTML/CSS skills and can use modern frameworks to develop single page applications
 * Keen to learn and keep up with new technologies, transcending current crazes and trendy tools/frameworks.
 * Effective communication skills, both written and verbal for technical and non-technical audiences.
 * Experience in working with UX/designers to build exciting UIs for web applications.
 * Deep understanding of what motivates, inspires and stifles software teams.
 * Experience with agile methods, along with having found their limitations and ways to overcome them.
+
 
 If this sounds like you, or something that you want to grow into, we'd love to chat to you!
