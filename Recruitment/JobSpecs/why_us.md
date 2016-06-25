@@ -2,7 +2,7 @@
 Buildit is a transformation studio. We are a company that helps create better companies. We partner with our clients to build innovative product-service experiences, and help high calibre development teams to scale independently.
 
 ###What we do
-In a constantly evolving world, Buildit helps make the future. We are a hands-on partner that cares about the detail, and understand how to innovate:
+In a constantly evolving world, Buildit helps make the future. We are a hands-on partner that cares about the detail, and understands how to innovate:
 
 * Leverage world class design capabilities, via Designit
 * Form teams of change makers
