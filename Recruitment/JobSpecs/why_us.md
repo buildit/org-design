@@ -1,14 +1,14 @@
-###About us
+###Who we are
+Buildit is a transformation studio. We are a company that helps create better companies. We partner with our clients to build innovative product-service experiences, and help high calibre development teams to scale independently.
 
-Buildit is a transformation studio, a company that helps create better companies. 
+###What we do
+In a constantly evolving world, Buildit helps make the future. We are a hands-on partner that cares about the detail, and understand how to innovate:
 
-We partner with clients to build new products and services, and help their teams scale independently.
-
-We are not a consultancy, and not an outsourcer. We are a hands-on partner that participates and cares about the detail. The Buildit team invests significantly with every client we work with, we focus on getting things done, helping prove a method and a model to unlock future speed and scale.
-
-We specialise in customer centricity, high calibre engineering and flow.
-
-We have done this before, transforming large organisations with millions of users. And now we’re applying what we’ve learned to help create the next generation of business.
+* Leverage world class design capabilities, via Designit
+* Form teams of change makers
+* Host those teams in a highly collaborative studio environment
+* Combine customer centricity with high calibre engineering
+* Value 'doing the right things' as much as 'doing things right'
 
 ###Why us?
 Do you think there’s something wrong with the way most companies approach problems, whether they’re people, process, or technology related?
