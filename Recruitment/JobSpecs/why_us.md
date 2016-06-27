@@ -6,9 +6,9 @@ We have done this before, transforming large organisations with millions of user
 
 
 ### Our approach
-We’re looking for people who want to help us change the way companies think and approach problems; people who want to work individuals and cross-functional teams who share a passion for solving complex problems; people who want to own the entire problem, whether it’s about technology, ways of working, teams, or poor customer experience.
+We are looking for people who want to help us change the way companies think and approach problems; people who want to work as individuals and cross-functional teams, who share a passion for solving complex problems; people who want to own the entire problem, whether it’s about technology, ways of working, teams, or poor customer experience.
 
-We’re value polygots who neither need, nor want, to be told what needs to be done, but instead who can look at what’s happening, what’s needed, and figure out how they fit into it. We’re looking for people who are comfortable finding their own place in a flat organisation amongst egoless peers who are willing to listen, learn, and share.
+We are value polygots who neither need, nor want, to be told what needs to be done, but instead who can look at what’s happening, what’s needed, and figure out how they fit into it. We’re looking for people who are comfortable finding their own place in a flat organisation amongst egoless peers who are willing to listen, learn, and share.
 
 We are genuinely curious about business, UX, strategy, social and behavioural factors and appreciate that engineering is a key piece of a bigger puzzle, understanding the other pieces and ‘the whole’. We enjoy finding ways to make complicated tasks easy, elminating things that aren’t valuable and automating things that are. We can often be heard saying “it’s good enough” and “let’s ship it”, but also “what is our goal?” and “this should be nowhere near production”. We encourage everyone to bring their personality to work and to seek input when they want to make a decision that will affect others, or when others know more than they do.
 
