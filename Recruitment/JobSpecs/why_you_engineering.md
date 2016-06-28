@@ -1,5 +1,5 @@
 ### What you'll do
-* Work intimiately with clients to understand their organisation, aspirations and challenges.
+* Work intimately with clients to understand their organisation, aspirations and challenges.
 * Help clients identify promising solutions through participating in, and leading, digital workshops.
 * Build real solutions through experimentation as part of a multi-faceted team.  
 * Accelerate and improve how we help our clients through developing and contributing to components, services and methodologies.
