@@ -1,6 +1,4 @@
-### Role
-
-#### Responsibilities
+### What you'll do
 * Work intimiately with clients to understand their organisation, aspirations and challenges.
 * Help clients identify promising solutions through participating in, and leading, digital workshops.
 * Build real solutions through experimentation as part of a multi-faceted team.  
@@ -8,14 +6,14 @@
 * Explore up-and-coming technologies and software products; seize learning and knowledge sharing opportunities; participate in professional organizations. Read; teach; learn.
 
 
-#### Qualifications
-* Talented and passionate Javascript Engineer, handling both server-side and client-side code.
-* Excellent ES2016/ESNext/HTML/CSS skills and can use modern frameworks to develop single page applications
-* Keen to learn and keep up with new technologies, transcending current crazes and trendy tools/frameworks.
-* Effective communication skills, both written and verbal for technical and non-technical audiences.
-* Experience in working with UX/designers to build exciting UIs for web applications.
-* Deep understanding of what motivates, inspires and stifles software teams.
-* Experience with agile methods, along with having found their limitations and ways to overcome them.
+### What we value
+* Are you a talented and passionate Javascript Engineer, with experience in handling both server-side and client-side code?
+* Do you have excellent ES2016/ESNext/HTML/CSS skills with the ability to use modern frameworks to develop single page applications?
+* Are you keen to learn and keep up with new technologies, transcending current crazes and trendy tools/frameworks?
+* Do you have effective communication skills, both written and verbal for technical and non-technical audiences?
+* Have you worked with UX/designers to build exciting UIs for web applications?
+* Do you have a deep understanding of what motivates, inspires and stifles software teams?
+* Are you experienced with agile methods, along with having found their limitations and ways to overcome them.
 
 
 If this sounds like you, or something that you want to grow into, we'd love to chat to you!
