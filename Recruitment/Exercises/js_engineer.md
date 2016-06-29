@@ -19,7 +19,8 @@ This exercise is to examine your technical knowledge, reasoning and engineering 
 
 ## Checklist
 
-Please ensure you have submitted the following...
+Please ensure you have submitted the following:
+
 1. Working forecast page **as per requirements**
 2. Clear instructions of where the solution is hosted
 3. A readme.md explaining
