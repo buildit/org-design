@@ -6,12 +6,6 @@ Do you love technology, and understand that real change comes from people doing 
 
 If these are things that drive you, then we may want to talk to you.
 
-Buildit is a transformation studio, a company that helps build better companies. We partner with clients to create new products and services, and help their teams scale independently. Our clients know that there's a better way to deliver software, but aren't always sure what it is, or how to get there. We understand that organisational transformation is a journey and not a single event. When they are ready to change, we help them.
-
-We are not a consultancy, and not an outsourcer. We are a hands-on partner that participates and cares about the detail, and we recognise that real change comes from people doing things differently. The Buildit team invests significantly with every client we work with, focusing on getting things done and helping prove a method and a model to unlock future speed and scale. We specialise in customer centricity and high calibre engineering.
-
-We have done this before, transforming large organisations with millions of users. And now we’re applying what we’ve learned to help create the next generation of business.
-
 
 ### Our approach
 We hunger to change the way companies think and approach problems. We are genuinely curious about business, UX, strategy, social and behavioural factors. We enjoy owning the entire problem, whether it’s about technology, ways of working, teams, or poor customer experience. We appreciate that engineering is a key piece of a bigger puzzle, understanding the other pieces and ‘the whole’. We enjoy finding ways to make complicated tasks easy, eliminating things that aren’t valuable and automating things that are.
