@@ -2,7 +2,7 @@ Do you think there’s something lacking in how many companies approach problems
 
 Do you want to help them figure out how to think and work differently?
 
-Do you love technology, and understand that real change comes from people doing things differently, rather than people doing the same things differently?
+Do you love technology, and understand that real change comes from people doing different things, rather than people doing the same things differently?
 
 These are the things that drive us. Do they drive you?
 
