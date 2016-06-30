@@ -8,7 +8,7 @@ These are the things that drive us. Do they drive you?
 
 ### Who we are looking for
 
-We are looking for people who want to help us change the way companies think and approach problems; people who want to work with teams and individuals who share a passion for solving complex problems; people who want to own the entire problem, whether it’s about technology, ways of working, teams, or poor customer experience.
+We are looking for people who want to help us change the way companies think and approach problems; people who want to work with teams and individuals who share a passion for solving complex problems; people who want to own the entire problem, whether it’s about technology, ways of working, teams, or customer experience.
 
 We are looking for people who want to be treated like adults; people who neither need, nor want, someone else to tell them what needs to be done, but instead who can look at what’s happening, what’s needed, and figure out how they fit into it; people who are comfortable finding their own place.
 
