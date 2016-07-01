@@ -4,7 +4,7 @@ Our job specs are meant to be an invitation to a conversation with people who ma
 
 Generally try to put together the branded job spec's in the following format
 
-1. *Why Us?* - shared text for all job spec's
+1. *Why would you join us?* - shared text for all job spec's
 2. *Why You?* - this should be tailored at the tribe level
 4. *Conclusion* - shared text for all job spec's
 
