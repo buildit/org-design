@@ -6,7 +6,7 @@
 * Explore up-and-coming technologies and software products; seize learning and knowledge sharing opportunities; participate in professional organizations. Read; teach; learn.
 
 
-### What we value
+### Who fits this role
 * Talented and passionate JavaScript Engineers, handling both server-side and client-side code.
 * Excellent ES2016/ESNext/HTML/CSS skills, comfortable using modern frameworks to develop single page applications.
 * Keen to learn and keep up with new technologies, transcending current crazes and trendy tools/frameworks.

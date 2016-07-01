@@ -12,7 +12,7 @@
 * Share problems, as well as victories, whilst fostering an environment of openness, transparency and fairness.
 
 
-### What we value
+### Who fits this role
 * Can you derive your satisfaction from fostering an amazing team culture inside an entirely flat hierarchy and thrive inside that team as an egoless peer?
 * Will you encourage emergent leadership and seek out every opportunity to remove impediments for your teams?
 * Do you share problems, as well as victories, and believe that fostering an environment of openness, transparency and fairness is the best way to keep a customer satisfied and deliver disruptive innovation?
