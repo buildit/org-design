@@ -14,6 +14,3 @@
 * Experience in working with UX/designers to build exciting UIs for web applications.
 * Deep understanding of what motivates, inspires and stifles software teams.
 * Experience with agile methods, along with having found their limitations and ways to overcome them.
-
-
-If this sounds like you, or something that you want to grow into, we'd love to chat to you!
