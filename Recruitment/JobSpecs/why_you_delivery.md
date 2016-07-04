@@ -1,5 +1,5 @@
 ### What you'll do
-* Work intimately with clients to understand their organisation, aspirations and challenges.
+* Understand clients' organisations, aspirations and challenges.
 * Help clients identify promising solutions through participating in, and leading, digital workshops.
 * Motivate and inspire cross-functional teams in the delivery of digital platforms and features at pace.
 * Execute a transformation agenda through applying the right fit practices, tools and techniques from Lean, Scrum, Kanban and XP, at the right time.
