@@ -4,12 +4,8 @@
 * Motivate and inspire cross-functional teams in the delivery of digital platforms and features at pace.
 * Execute a transformation agenda through applying the right fit practices, tools and techniques from Lean, Scrum, Kanban and XP, at the right time.
 * Determine, apply and improve appropriate methodologies and toolsets for a customer’s culture and operating environment.
-* Participate in and lead digital workshops with customer organizations.
 * Enhance the group’s reputation by accepting ownership for accomplishing new and different requests; exploring opportunities to add value.
 * Support the team by providing advice, coaching, and educational opportunities.
-* Foster an amazing team culture inside an entirely flat hierarchy and thrive inside that team as an egoless peer.
-* Encourage emergent leadership whilst seeking out every opportunity to remove impediments for your teams.
-* Share problems, as well as victories, whilst fostering an environment of openness, transparency and fairness.
 
 
 ### Who fits this role
