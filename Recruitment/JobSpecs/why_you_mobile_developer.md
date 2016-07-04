@@ -1,18 +1,18 @@
 ### What you'll do
-* Work intimately with clients to understand their organisation, aspirations and challenges.
+* Understand clients' organisations, aspirations and challenges.
 * Help clients identify promising solutions through participating in, and leading, workshops.
 * Build real solutions through experimentation as part of a multi-faceted team.  
 * Accelerate and improve how we help our clients through developing and contributing to components, services and methodologies.
 * Explore up-and-coming technologies and software products; seize learning and knowledge sharing opportunities; participate in professional organizations. Read; teach; learn.
 
 
-### Who fits this role
-* Talented and passionate about mobile development, with an appreciation of all the pieces of the puzzle that make it happen.
+### What you'll need
+* A passionate and talent for mobile development, with an appreciation of all the pieces of the puzzle that make it happen.
 * Proven iOS or Android development in a production context.
 * Experience with visual design and prototyping.
 * Solid understanding and practical experience of engineering fundamentals of mobile development such as performance, APIs, troubleshooting, latency, etc.
-* Confident working with version control systems such as Git.
+* Confidence in working with version control systems such as Git.
 * Strong knowledge of designing a mobile experience for variable screen sizes.
 * Hands-on experience of continuous delivery.
-* Interaction design, crossing over into UX.
-* As you'll also be working with backend developers it would be advantageous if you have some knowledge of backend technologies.
+* Experience with interaction design, crossing over into UX.
+* Some knowledge of backend technologies would be advantageous as you'll also be working with backend developers.
