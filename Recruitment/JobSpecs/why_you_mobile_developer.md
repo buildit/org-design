@@ -7,8 +7,8 @@
 
 
 ### What you'll need
-* A passionate and talent for mobile development, with an appreciation of all the pieces of the puzzle that make it happen.
-* Proven iOS or Android development in a production context.
+* A passion and talent for mobile development, with an appreciation of all the pieces of the puzzle that make it happen.
+* Proven iOS or Android development experience in a production context.
 * Experience with visual design and prototyping.
 * Solid understanding and practical experience of engineering fundamentals of mobile development such as performance, APIs, troubleshooting, latency, etc.
 * Confidence in working with version control systems such as Git.
