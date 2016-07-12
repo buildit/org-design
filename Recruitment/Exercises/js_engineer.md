@@ -6,7 +6,7 @@ Please build a single HTML page displaying the 5 day weather forecast for a loca
 2. Use HTML5/CSS3/JavaScript to implement the solution.
 3. Use the [OpenWeatherMap 5 day weather forecast API](http://openweathermap.org/forecast5) to retrieve the current 5 day weather forecast.
 4. Give some thought to what will make a decent user experience. We would like to see something readable but with no need to go all out on sleek and flashy UI elements.
-5. Use any supporting technologies, package management, build systems, rendering libraries that you are familiar with and feel are appropriate.
+5. Use any supporting technologies, frameworks, package management, build systems, rendering libraries that you are familiar with and feel are appropriate.
 6. Provide a readme.md file that:
   - Documents how to run / build / test your creation.
   - Documents anything you might implement with more time (features, fixes, technical debt corrections etc).
