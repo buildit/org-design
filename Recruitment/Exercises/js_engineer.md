@@ -13,8 +13,8 @@ This avoids environment issues when trying to build your solution.
 7. Provide a readme.md file that:
   - Documents how to run / build / test your creation.
   - Documents anything you might implement with more time (features, fixes, technical debt corrections etc).
-8. Submit your code into a **public git repository** of your choice (github / bitbucket etc).
-9. Host your code on a **public web server** of your choice.
+8. **Submit** your code into a **public git repository** of your choice (github / bitbucket etc).
+9. **Host** your code on a **public web server** of your choice.
 
 ## What we are looking for
 
@@ -22,7 +22,7 @@ This exercise is to examine your technical knowledge, reasoning and engineering 
 
 ## Checklist
 
-Please ensure you have submitted the following:
+Please **ensure** you have submitted the following:
 
 1. Working forecast page **as per requirements above**
 2. Clear instructions of where the solution is hosted
