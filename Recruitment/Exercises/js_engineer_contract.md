@@ -7,8 +7,8 @@ Please build a React app displaying the 5 day weather forecast for a location of
 3. Use the [OpenWeatherMap 5 day weather forecast API](http://openweathermap.org/forecast5) to retrieve the current 5 day weather forecast.
 4. Give some thought to what will make a decent user experience. We would like to see something readable but with no need to go all out on sleek and flashy UI elements.
 5. Use any supporting technologies, package management, build systems and libraries that you are familiar with and feel are appropriate.
-6. Assuming a node.js environment with the latest version installed, please ensure that no there are no globally
-installed dependencies required to build / run your app. If you have to have them please explain why.
+6. Assuming a node.js environment with the latest version installed, please ensure that no there are **no globally
+installed dependencies required** to build / run your app. If you have to have them please explain why.
 This avoids environment issues when trying to build your solution.
 7. Provide a readme.md file that:
   - Documents how to run / build / test your creation.
