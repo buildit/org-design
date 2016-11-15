@@ -3,7 +3,7 @@
 Please build an app displaying the 5 day weather forecast for a location of your choice.
 
 1. Do not spend more than 4 hours on your solution **(even if you do not complete the entire exercise)**.
-2. Build a natice iOS or Android app (your choice).
+2. Build a native iOS or Android app (your choice).
 3. Use the [OpenWeatherMap 5 day weather forecast API](http://openweathermap.org/forecast5) to retrieve the current 5 day weather forecast.
 4. Give some thought to what will make a decent user experience. We would like to see something readable but with no need to go all out on sleek and flashy UI elements.
 5. Use any supporting technologies, package management, build systems, component libraries that you are familiar with and feel are appropriate.
