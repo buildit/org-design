@@ -8,8 +8,11 @@
 ### Technologies we are using, right now
 * Cloud: AWS, Bluemix, CloudFoundry
 * Configuration management: Ansible
-* IaaS: Terraform, Ansible
-* Languages: Java
+* IaaS: Terraform, Ansible, Convox 
+* Package Management: NPM, Yum, RPM, Nexus
+* Containers: Docker, Kubernetes
+* Languages: Java, Python, Ruby, Javascript
 * Continuous Delivery: Jenkins
+* Testing: xUnit, Selenium, Mocha, Sonar
 * Logging: Splunk
 * Monitoring: App Dynamics, New Relic
