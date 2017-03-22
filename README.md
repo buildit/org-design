@@ -1,6 +1,6 @@
-#Buildit 
+# Buildit
 
-Not a consultancy, not an outsourcer. Buildit are a transformation partner that participates. We build software, we build teams, we build new ways of working, we build new organisations.
+Not a consultancy, not an outsourcer. Buildit is a transformation partner that participates. We build software, we build teams, we build new ways of working, we build new organisations.
 
 Technology moves, the competition moves, the market moves, the people move. We are here because we enjoy that complexity, we believe that success requires autonomy, and we know that autonomy rocks.
 
