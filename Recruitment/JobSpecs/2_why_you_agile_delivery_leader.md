@@ -19,3 +19,5 @@
 * Are you experienced in managing teams of teams, or setting up communities of excellence to allow for continuous improvement within specialties?
 * Do you have a proven track record of successfully delivering large programs of work, whilst maintaining a strong relationship with all parties?
 * Can you handle high pressure scenarios and difficult projects without reverting back to a command and control management style?
+
+# **[Apply Here!](https://jobs.smartrecruiters.com/?company=wiprodigital)**
