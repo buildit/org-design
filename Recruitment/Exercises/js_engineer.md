@@ -3,7 +3,7 @@
 Please build a single HTML page displaying the 5 day weather forecast for a location of your choice.
 
 1. Do not spend more than 4 hours on your solution **(even if you do not complete the entire exercise)**.
-2. Use HTML5/CSS3/JavaScript to implement the solution.
+2. Use the latest specs of HTML, CSS and EcmaScript to implement the solution. At the time of the last edit to this page, these would be HTML5, CSS3 and ES2016.
 3. Use the [OpenWeatherMap 5 day weather forecast API](http://openweathermap.org/forecast5) to retrieve the current 5 day weather forecast.
 4. Give some thought to what will make a decent user experience. We would like to see something readable but with no need to go all out on sleek and flashy UI elements.
 5. Use any supporting technologies, frameworks, package management, starter kits, build systems and libraries that you are familiar with and feel are appropriate.
