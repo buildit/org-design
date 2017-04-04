@@ -1,4 +1,4 @@
-###Experience Level 1 - Skills & Experience
+### Experience Level 1 - Skills & Experience
 
 *Influencer at the team level*
 
@@ -10,13 +10,13 @@
 
 * Can confidently discuss compromise between the ideal and the pragmatic. Understands the risks from diverging from best practice but can sensible talk about risk and mitigation strategies in different scenarios
 
-* Able to help teams recognise their strengths and weaknesses in order to improve team productivity 
+* Able to help teams recognise their strengths and weaknesses in order to improve team productivity
 
 * Clear evidence of direct impact to overall project and product outcome
 
 * Has a working understanding of path to live and can talk to concepts such as CI/CD and the DevOps culture
 
-* A working understanding of good software development practices as included in methods like XP. Can demonstrate experience in moving development teams to better practice. 
+* A working understanding of good software development practices as included in methods like XP. Can demonstrate experience in moving development teams to better practice.
 
 * Evidence of impact and thought leadership
 
@@ -35,5 +35,3 @@
 * Set vision and direction to inspire high-calibre teams
 
 * Solid delivery experience that transcends a single method
-
-

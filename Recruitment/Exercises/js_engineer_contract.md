@@ -10,7 +10,7 @@ Please build a React app displaying the 5 day weather forecast for a location of
 6. Assuming a node.js environment with the latest version installed, please ensure that no there are **no globally
 installed dependencies required** to build / run your app. If you have to have them please explain why.
 This avoids environment issues when trying to build your solution.
-7. Provide a readme.md file that:
+7. Provide a README.md file that:
   - Documents how to run / build / test your creation.
   - Documents anything you might implement with more time (features, fixes, technical debt corrections etc).
 8. **Submit** your code into a **public git repository** of your choice (github / bitbucket etc).
@@ -18,18 +18,18 @@ This avoids environment issues when trying to build your solution.
 
 ## What we are looking for
 
-This exercise is to examine your technical knowledge, reasoning and engineering principals. There are no tricks or hidden agendas. We are looking for a demonstration of your experience and skill using current software development technologies and methodologies. Please make sure your code is clear, demonstrates good practices and that the readme.md file explains how to run / build your solution. Also, detail anything further that you would like to achieve with more time. Your solution will form the basis for discussion in subsequent interviews.
+This exercise is to examine your technical knowledge, reasoning and engineering principals. There are no tricks or hidden agendas. We are looking for a demonstration of your experience and skill using current software development technologies and methodologies. Please make sure your code is clear, demonstrates good practices and that the README.md file explains how to run / build your solution. Also, detail anything further that you would like to achieve with more time. Your solution will form the basis for discussion in subsequent interviews.
 
 ## Checklist
 
 Please **ensure** you have submitted the following:
 
-1. Working forecast page **as per requirements above**
-2. Clear instructions of where the solution is hosted
-3. A readme.md explaining
+1. Working forecast page **as per requirements above**.
+2. Clear instructions of where the solution is hosted.
+3. A README.md explaining
   - How to run / build / test project
   - Explanation of what could be done with more time
-4. Project builds / runs / tests as per instruction
+4. Project builds / runs / tests as per instruction.
 5. Submissions not using **React** will be automatically rejected.
 
 Good luck and thank you for your time - we look forward to seeing your creation.
