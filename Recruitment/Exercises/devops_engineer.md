@@ -3,8 +3,7 @@ We think infrastructure is best represented as code, and provisioning of resourc
 
 Your task is to create a CI build pipeline that deploys a web application to a load-balanced
 environment. You are free to complete the test in a local environment (using tools like Vagrant and
-Docker) or use any CI service, provisioning tool and cloud environment you feel comfortable with (we
-recommend creating a free tier account so you don't incur any costs).
+Docker) or use any CI service, provisioning tool and cloud environment you feel comfortable with.
 
 For this test, you will need to deploy our [example application](https://github.com/buildit/devops-test-webapp).
 
