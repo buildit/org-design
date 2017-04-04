@@ -7,8 +7,8 @@ Docker) or use any CI service, provisioning tool and cloud environment you feel 
 
 For this test, you will need to deploy our [example application](https://github.com/buildit/devops-test-webapp).
 
-* Your CI job should:
-  * Run when a feature branch is pushed to Github. If you are working locally feel free to use some other method for triggering your build.
+* Your CI job(s) should:
+  * Run the tests included with the application.
   * Deploy to a target environment when the job is successful.
 * The target environment should consist of:
   * A load-balancer accessible via HTTP on port 80.
