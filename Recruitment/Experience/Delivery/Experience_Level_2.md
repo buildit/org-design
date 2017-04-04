@@ -17,7 +17,7 @@
 
 * Recognises the importance of stable teams and practices putting structures and measures in place to improve predictability
 
-* Uses tools and standards effectively to eliminate time spent on those things that are highly repeatable like config and environmental related issues but works hard to avoid unnecessary bureaucracy. 
+* Uses tools and standards effectively to eliminate time spent on those things that are highly repeatable like config and environmental related issues but works hard to avoid unnecessary bureaucracy.
 
 * Realises what clear actionable data teams need flowing from production in order to resolve issues significantly faster and with less effort.
 
