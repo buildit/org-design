@@ -6,7 +6,6 @@
 
 ### Skills and experience we’re after:
 * Hands-on, best-of-breed software engineering, within autonomous, cross-functional delivery teams
-* Cloud-first, full-stack development 
 * Experience in at least one ubiquitous programming language and polyglot tendencies
 * Cloud, \*aaS
 * CI/CD
