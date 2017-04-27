@@ -5,22 +5,21 @@
 * Explore up-and-coming technologies and software products. Read; experiment; learn; teach.
 
 ### Skills and experience we’re after:
-* Cloud
+* Hands-on, best-of-breed software engineering, within autonomous, cross-functional delivery teams
+* Experience in at least one ubiquitous programming language and polyglot tendencies
+* Cloud, \*aaS
 * CI/CD
-* \*aaS
 * Monitoring
 * Analytics
-* Automation
+* Comfortable with technical implementation to high-level architecture.
 
 ### We currently use, but aren’t wedded to:
+* Java, Spring MVC, SpringBoot, Node.js
 * AWS
-* Bluemix
-* CloudFoundry
-* Ansible
-* Terraform
-* Java
+* Bluemix, CloudFoundry
+* Docker
+* Ansible, Terraform
 * Jenkins
-* Splunk
-* New Relic
+* Splunk, New Relic, AppDynamics
 
 # **[Apply Here!](https://jobs.smartrecruiters.com/?company=wiprodigital)**
