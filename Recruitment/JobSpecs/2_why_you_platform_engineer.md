@@ -14,13 +14,12 @@
 * Comfortable with technical implementation to high-level architecture.
 
 ### We currently use, but aren’t wedded to:
-* Java, Spring MVC, SpringBoot
+* Java, Spring MVC, SpringBoot, Node.js
 * AWS
 * Bluemix, CloudFoundry
 * Docker
 * Ansible, Terraform
 * Jenkins
-* Splunk
-* New Relic, AppDynamics
+* Splunk, New Relic, AppDynamics
 
 # **[Apply Here!](https://jobs.smartrecruiters.com/?company=wiprodigital)**
