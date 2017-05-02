@@ -9,7 +9,7 @@ Please build an app displaying the 5 day weather forecast for a location of your
 5. Use any supporting technologies, package managers, build systems, component libraries that you are familiar with and feel are appropriate.
 6. Provide a README.md file that:
   - Documents how to run / build / test your creation.
-  - Documents anything you might implement with more time (features, fixes, technical debt corrections etc).
+  - Documents anything you might implement with more time (features, fixes, technical debt, corrections etc).
 7. **The solution should be able to run locally with the appropriate simulator**.
 8. Submit your code on a **public git repository** of your choice (github / bitbucket etc).
 
@@ -25,7 +25,7 @@ Please **ensure** you have submitted the following:
 2. Clear instructions of where the solution is hosted
 3. A README.md explaining
   - How to run / build / test project
-  - Explanation of what could be done with more time
-4. Project builds / runs / tests as per instruction
+  - What could be done with more time
+4. Project builds / runs / tests as per instructions
 
 Good luck and thank you for your time - we look forward to seeing your creation.
